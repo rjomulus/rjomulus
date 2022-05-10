@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rjomulus
+- 👀 I’m interested in blockchain and technical advancements as they apply to extended reality scenarios.
+- 🌱 I’m currently learning how to incorporate Dapp smart contracts into "traditional" style cross-platform apps. 
+- 💞️ I’m looking to find ways to present complex technology in a simple, playful way.  My passion is finding fascinating use cases where tech and art meet. That means creating impactful experiences that can expand your worldview.

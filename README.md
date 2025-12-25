@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @rjomulus
 - 👀 I’m interested in scenarios where AI can extend our reality.
 - 🌱 I’m currently learning more ways to expand my musical toolbox using technology.
-- 💞️ I’m looking to find ways to present complex technology in a simple, playful way.  My passion is finding fascinating use cases where tech and art meet. That means creating immersive experiences that can expand someone's worldview.
